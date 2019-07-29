@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<opencv_storage>
+                                            <!--0-disable     1-enable-->
+<debug_mode>1</debug_mode>                  <!--wait for keyboard to process next frame-->
+<video_name>test.mp4</video_name>  <!--video file name in {ProjectFolder}/video-->
+<show_fps>1</show_fps>                      <!--display fps on output image-->
+<show_time>1</show_time>                    <!--display time on output image-->
+</opencv_storage>
